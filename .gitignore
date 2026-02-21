@@ -7,4 +7,10 @@ __pycache__/
 *.swp
 *.swo
 *~
+*.pyo
+*.pyd
+.env
+secrets.yaml
+node_modules/
+Thumbs.db
 
