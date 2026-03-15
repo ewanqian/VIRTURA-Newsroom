@@ -8,10 +8,20 @@ VIRTURA-Newsroom 是 VIRTURA 的发布出口。
 
 如果你是第一次打开这个仓库，建议按下面顺序阅读:
 
+- [Featured Now](#featured-now)
 - [Essays](./essays/README.md)
 - [Project Recaps](./project-recaps/README.md)
 - [Notes And Announcements](./notes/README.md)
 - [Media Kit](./media-kit/README.md)
+
+## Featured Now
+
+如果你只看几页，先看这些:
+
+- [Why Digital Library / Digital Stage Matters](./essays/why-digital-library-and-digital-stage.md)
+- [VIRTURA Ecosystem Upgrade 2026-03-16](./project-recaps/virtura-ecosystem-upgrade-2026-03-16.md)
+- [Repository Update 2026-03-16](./notes/repository-update-2026-03-16.md)
+- [VIRTURA Short Intro](./media-kit/virtura-short-intro.md)
 
 ## What Gets Published Here
 

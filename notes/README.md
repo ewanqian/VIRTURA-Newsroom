@@ -9,6 +9,10 @@
 - 阶段性更新
 - 对外公告
 
+## Current Entry
+
+- [Repository Update 2026-03-16](./repository-update-2026-03-16.md)
+
 ## Metadata
 
 建议每条内容至少标注：
