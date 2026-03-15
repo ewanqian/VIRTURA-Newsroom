@@ -45,6 +45,25 @@ VIRTURA-Newsroom 是 VIRTURA 的发布出口。
 - 工具主线：[SceneForge](https://github.com/ewanqian/SceneForge)
 - 问题反馈：[Issues](https://github.com/ewanqian/VIRTURA-Newsroom/issues)
 
+## Repository Map
+
+```text
+VIRTURA-Newsroom/
+  essays/         research and method articles
+  project-recaps/ project recaps and version writeups
+  notes/          short announcements and updates
+  media-kit/      public reference materials
+  templates/      lightweight writing templates
+```
+
+## Start Here
+
+- [Essays](./essays/README.md)
+- [Project Recaps](./project-recaps/README.md)
+- [Notes And Announcements](./notes/README.md)
+- [Media Kit](./media-kit/README.md)
+- [Post Template](./templates/post-template.md)
+
 ## Publishing Scope
 
 后续这里优先整理：
