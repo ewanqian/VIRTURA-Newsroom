@@ -1,5 +1,7 @@
 # VIRTURA-Newsroom
 
+中文 | [English](./README-en.md)
+
 VIRTURA-Newsroom 是 VIRTURA 的发布出口。
 
 这里用于整理文章、项目复盘、公告和媒体资料，让外部访客可以从较轻的阅读入口理解我们的工作进展。
