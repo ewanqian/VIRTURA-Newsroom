@@ -13,6 +13,8 @@
 
 - [Why Digital Library / Digital Stage Matters](./why-digital-library-and-digital-stage.md)
 
+这篇文章适合作为当前理解 VIRTURA 仓库体系升级的第一入口。
+
 ## Metadata
 
 建议每篇文章至少标注：
