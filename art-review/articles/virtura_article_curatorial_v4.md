@@ -24,6 +24,7 @@ language: zh-CN
 **VIRTURA 的三位创作者，如何把欲望、空间与失真，从技术表面推进为当代经验**
 
 By Murphy Nile
+
 Chief Curatorial Chef, VIRTURA
 
 ---
