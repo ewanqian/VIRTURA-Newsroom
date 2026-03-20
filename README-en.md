@@ -1,44 +1,95 @@
-# VIRTURA-Newsroom
+# VIRTURA Newsroom
 
-[中文](./README.md) | English
+**Latest Issue · March 20, 2026**
 
-VIRTURA-Newsroom is the publication outlet of VIRTURA.
+[中文](./README.md) | [English]
 
-It is where essays, project recaps, short updates, and media-facing reference material are gathered into a lighter public reading layer.
+---
 
-## Start Here
+## 🎯 This Week's Focus
 
-- [Art Review](./art-review/README.md) - art criticism and visibility system
-- [Essays](./essays/README.md)
-- [Project Recaps](./project-recaps/README.md)
-- [Notes And Announcements](./notes/README.md)
-- [Media Kit](./media-kit/README.md)
+### [Cover Story: VIRTURA Article Curatorial - v4](./art-review/articles/virtura_article_curatorial_v4.md)
+*Author: Murphy · Published: March 20, 2026*
 
-## Featured Now
+> "A real work is not about showcasing technology; it's about arranging feelings."
 
-- [VIRTURA Article Curatorial - v4](./art-review/articles/virtura_article_curatorial_v4.md) - first article in the art review unit
-- [Why Digital Library / Digital Stage Matters](./essays/why-digital-library-and-digital-stage.md)
-- [VIRTURA Ecosystem Upgrade 2026-03-16](./project-recaps/virtura-ecosystem-upgrade-2026-03-16.md)
-- [Repository Update 2026-03-16](./notes/repository-update-2026-03-16.md)
-- [VIRTURA Short Intro](./media-kit/virtura-short-intro.md)
+How VIRTURA's three creators push desire, space, and distortion from the surface of technology into contemporary experience.
 
-## What This Repository Does
+**[Read Full Article →](./art-review/articles/virtura_article_curatorial_v4.md)**
 
-- publishes art criticism and visibility system articles
-- publishes research and method writing
-- holds project recaps and version notes
-- carries short public updates
-- offers media-facing reference material
+---
 
-## How It Fits In
+## 📰 Latest Content
 
-- [VIRTURA-Collective](https://github.com/ewanqian/VIRTURA-Collective): team entry point
-- [VIRTURA-SpacePort](https://github.com/ewanqian/VIRTURA-SpacePort): public front desk, archive gateway, and knowledge-network host
-- [portfolio](https://github.com/ewanqian/portfolio): personal entry point
-- [SceneForge](https://github.com/ewanqian/SceneForge): digital-stage tool line
+### 🎨 Art Reviews
+- [VIRTURA Article Curatorial - v4](./art-review/articles/virtura_article_curatorial_v4.md) - Murphy's first art review
+- [About the Art Review Unit](./art-review/README.md) - Why we need to "translate ourselves"
 
-## Current Status
+### 📝 Deep Essays
+- [Why Digital Library / Digital Stage Matters](./essays/why-digital-library-and-digital-stage.md) - Thoughts on content persistence
 
-This repository is in a publication-layer transition.
+### 🔄 Project Updates
+- [VIRTURA Ecosystem Upgrade 2026-03-16](./project-recaps/virtura-ecosystem-upgrade-2026-03-16.md) - Repository structure refactoring
 
-Its role is no longer to hold every kind of team information. It is being narrowed into a stable public publishing layer.
+### 📢 Announcements
+- [Repository Update 2026-03-16](./notes/repository-update-2026-03-16.md) - Latest developments
+
+### 📋 Media Materials
+- [VIRTURA Short Introduction](./media-kit/virtura-short-intro.md) - Team overview
+
+---
+
+## 🏛️ About Us
+
+VIRTURA Newsroom is the team's public publication platform.
+
+We share:
+- 🎨 Art reviews and creative thoughts
+- 📝 Project recaps and technical articles
+- 📢 Team announcements and media materials
+
+**Simple: This is where we speak to the outside world.**
+
+---
+
+## 🗂️ Content Categories
+
+### Art Review Unit
+Dedicated art criticism and visibility system articles.
+- [Enter Art Review Unit →](./art-review/README.md)
+
+### Research Essays
+Methodologies, research papers and complete public texts.
+- [View All Research Essays →](./essays/README.md)
+
+### Project Recaps
+Project summaries, version notes and stage reviews.
+- [View All Project Recaps →](./project-recaps/README.md)
+
+### Notes & Announcements
+Short updates, announcements and working notes.
+- [View All Announcements →](./notes/README.md)
+
+### Media Kit
+External-facing reference materials and team introductions.
+- [View Media Kit →](./media-kit/README.md)
+
+---
+
+## 🔗 Quick Links
+
+- **Team Home**: [VIRTURA-Collective](https://github.com/ewanqian/VIRTURA-Collective)
+- **Public Portal**: [VIRTURA-SpacePort](https://github.com/ewanqian/VIRTURA-SpacePort)
+- **Personal Entry**: [portfolio](https://github.com/ewanqian/portfolio)
+- **Tool Mainline**: [SceneForge](https://github.com/ewanqian/SceneForge)
+
+---
+
+## 📬 Feedback & Suggestions
+
+Found an error or have suggestions? Let us know via [Issues](https://github.com/ewanqian/VIRTURA-Newsroom/issues).
+
+---
+
+*Last Updated: March 20, 2026*  
+*Status: Actively Publishing*
