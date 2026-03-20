@@ -54,7 +54,7 @@
 art-review/
 ├── articles/          # 文章主体
 │   ├── virtura_article_curatorial_v4.md
-│   └── system_report_wu_yitong.md
+│   └── system_wu_yitong_review.md
 ├── statements/        # 团队与机制声明
 │   ├── translating-ourselves.md
 │   └── system-protocol-who-translates.md
