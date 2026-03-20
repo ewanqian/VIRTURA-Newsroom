@@ -11,6 +11,7 @@ VIRTURA-Newsroom 是 VIRTURA 的发布出口。
 如果你是第一次打开这个仓库，建议按下面顺序阅读:
 
 - [Featured Now](#featured-now)
+- [Art Review](./art-review/README.md) - 艺术评论与可见性系统
 - [Essays](./essays/README.md)
 - [Project Recaps](./project-recaps/README.md)
 - [Notes And Announcements](./notes/README.md)
@@ -20,15 +21,17 @@ VIRTURA-Newsroom 是 VIRTURA 的发布出口。
 
 如果你只看几页，先看这些:
 
+- [VIRTURA Article Curatorial - v4](./art-review/articles/virtura_article_curatorial_v4.md) - 艺术评论单元首篇文章
 - [Why Digital Library / Digital Stage Matters](./essays/why-digital-library-and-digital-stage.md)
-- [VIRTURA Ecosystem Upgrade 2026-03-16](./project-recaps/virtura-ecosystem-upgrade-2026-03-16.md)
+- [VIRTURA Ecosystem Upgrade 2026-03-16](./project-recaps/virtura_ecosystem-upgrade-2026-03-16.md)
 - [Repository Update 2026-03-16](./notes/repository-update-2026-03-16.md)
 - [VIRTURA Short Intro](./media-kit/virtura-short-intro.md)
 
 ## What Gets Published Here
 
-这里主要承接四类内容:
+这里主要承接五类内容:
 
+- 艺术评论与可见性系统文章
 - 研究与方法文章
 - 项目复盘与阶段说明
 - 简短公告与更新
@@ -61,6 +64,7 @@ VIRTURA-Newsroom 是 VIRTURA 的发布出口。
 
 ```text
 VIRTURA-Newsroom/
+  art-review/     art criticism and visibility system
   essays/         research and method articles
   project-recaps/ project recaps and version writeups
   notes/          short announcements and updates
@@ -72,6 +76,7 @@ VIRTURA-Newsroom/
 
 后续这里优先整理：
 
+- 艺术评论与可见性系统文章
 - 核心研究文章
 - 项目复盘
 - 公开说明与公告

@@ -8,6 +8,7 @@ It is where essays, project recaps, short updates, and media-facing reference ma
 
 ## Start Here
 
+- [Art Review](./art-review/README.md) - art criticism and visibility system
 - [Essays](./essays/README.md)
 - [Project Recaps](./project-recaps/README.md)
 - [Notes And Announcements](./notes/README.md)
@@ -15,6 +16,7 @@ It is where essays, project recaps, short updates, and media-facing reference ma
 
 ## Featured Now
 
+- [VIRTURA Article Curatorial - v4](./art-review/articles/virtura_article_curatorial_v4.md) - first article in the art review unit
 - [Why Digital Library / Digital Stage Matters](./essays/why-digital-library-and-digital-stage.md)
 - [VIRTURA Ecosystem Upgrade 2026-03-16](./project-recaps/virtura-ecosystem-upgrade-2026-03-16.md)
 - [Repository Update 2026-03-16](./notes/repository-update-2026-03-16.md)
@@ -22,6 +24,7 @@ It is where essays, project recaps, short updates, and media-facing reference ma
 
 ## What This Repository Does
 
+- publishes art criticism and visibility system articles
 - publishes research and method writing
 - holds project recaps and version notes
 - carries short public updates
