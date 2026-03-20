@@ -8,12 +8,14 @@
 
 ## 🎯 This Week's Focus
 
-### [Cover Story: VIRTURA Article Curatorial - v4](./art-review/articles/virtura_article_curatorial_v4.md)
-*Author: Murphy · Published: March 20, 2026*
+### Cover Story: Boiling Interfaces into Perception, Frying Noise into Reality
+*[VIRTURA Article Curatorial - v4](./art-review/articles/virtura_article_curatorial_v4.md)*
+*Author: Murphy Nile · Published: March 20, 2026*
+
+**Abstract:**
+If anyone today still understands "new media art" as a mere display of technology, they are only seeing the vessel, not tasting the heat. Truly discussable works are never about showing off tools, but rearranging how we feel. This review explores how VIRTURA's three creators—Xu Sihui, Ewan Qian, and Murphy Nile—push desire, space, and distortion from the technical surface into contemporary experience.
 
 > "A real work is not about showcasing technology; it's about arranging feelings."
-
-How VIRTURA's three creators push desire, space, and distortion from the surface of technology into contemporary experience.
 
 **[Read Full Article →](./art-review/articles/virtura_article_curatorial_v4.md)**
 
@@ -22,8 +24,12 @@ How VIRTURA's three creators push desire, space, and distortion from the surface
 ## 📰 Latest Content
 
 ### 🎨 Art Reviews
+- [Treating Circuits as Flesh, Interference as the Scene](./art-review/articles/wu_yitong_circuits_and_bodies.md) - Murphy reviews WU-YITONG's practice
 - [VIRTURA Article Curatorial - v4](./art-review/articles/virtura_article_curatorial_v4.md) - Murphy's first art review
 - [About the Art Review Unit](./art-review/README.md) - Why we need to "translate ourselves"
+
+### 💡 Creator Shares
+- [The Detour of Systems, Perturbations, and Perceptions](./creator-shares/wu_yitong_system_perturbation.md) - WU-YITONG's reflections on physical computing
 
 ### 📝 Deep Essays
 - [Why Digital Library / Digital Stage Matters](./essays/why-digital-library-and-digital-stage.md) - Thoughts on content persistence
@@ -55,8 +61,12 @@ We share:
 ## 🗂️ Content Categories
 
 ### Art Review Unit
-Dedicated art criticism and visibility system articles.
+Dedicated art criticism and visibility system articles. Also reviews the "Creator Shares" content.
 - [Enter Art Review Unit →](./art-review/README.md)
+
+### Creator Shares
+Self-writing, concepts, and methodologies published by team members.
+- [View Creator Shares →](./creator-shares/README.md)
 
 ### Research Essays
 Methodologies, research papers and complete public texts.
