@@ -37,7 +37,8 @@ If anyone today still understands "new media art" as a mere display of technolog
 ### 🔄 Project Updates
 - [VIRTURA Ecosystem Upgrade 2026-03-16](./project-recaps/virtura-ecosystem-upgrade-2026-03-16.md) - Repository structure refactoring
 
-### 📢 Announcements
+### 📢 Announcements & Mechanisms
+- [SYSTEM Protocol: Who Translates, and Why We Collect Traces](./art-review/statements/system-protocol-who-translates.md) - The philosophy of laying eggs and collecting them
 - [Repository Update 2026-03-16](./notes/repository-update-2026-03-16.md) - Latest developments
 
 ### 📋 Media Materials

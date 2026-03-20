@@ -7,7 +7,7 @@
 ## 📖 本期文章
 
 ### [VIRTURA 策展文章 - v4](./articles/virtura_article_curatorial_v4.md)
-*作者：Murphy · 2026年3月20日*
+*撰稿：Murphy Nile · 2026年3月20日*
 
 > "把界面熬成感知，把噪声烹成现实"
 
@@ -25,33 +25,20 @@
 没有被书写，就像没有被翻译。
 没有被翻译，外界就会误以为它不存在。
 
-这个栏目的任务，就是把我们已有的70%材料，组织成媒体可用的文本格式。
-
----
-
-## 📝 文章格式
-
-一篇可被报道的文章需要：
-
-1. **一句清楚的主轴** - 这篇文章要说什么
-2. **一段艺术家介绍** - 谁在创作
-3. **两到三个代表项目** - 做了什么
-4. **每个项目一句核心问题** - 想回答什么
-5. **几张能说明方法的图** - 怎么做的
-6. **一段时代语境** - 为什么现在需要被看见
+这个栏目的任务，就是把我们已有的材料，组织成媒体可用的文本格式。
 
 ---
 
 ## 🏛️ 三个角色
 
-### 1. 评论者 (如 Murphy)
+### 1. 评论者 (如 Murphy 或 SYSTEM)
 - 写文章主体
-- 提供专业视角
-- 独立分析
+- 提供专业、外部或代理视角的独立分析
+- 解决表达焦虑与逻辑重复
 
 ### 2. 团队声明
 - 说明为什么需要这个栏目
-- 阐述工作方法
+- 阐述工作方法与元协议（例如 SYSTEM 协议）
 - 分享价值观
 
 ### 3. 发布平台
@@ -66,28 +53,23 @@
 ```
 art-review/
 ├── articles/          # 文章主体
-│   └── virtura_article_curatorial_v4.md
-├── statements/        # 团队声明
-│   └── translating-ourselves.md
+│   ├── virtura_article_curatorial_v4.md
+│   └── system_report_wu_yitong.md
+├── statements/        # 团队与机制声明
+│   ├── translating-ourselves.md
+│   └── system-protocol-who-translates.md
 └── README.md         # 栏目介绍
 ```
 
 ---
 
-## 🔗 相关阅读
+## 🔗 机制说明
 
-- [为什么需要"翻译我们自己"](./statements/translating-ourselves.md) - 完整背景说明
-- [文章背景介绍](./articles/README.md) - 这篇文章的创作背景
+本栏目不仅发布独立长篇评论，还承担着作为 **拾蛋者** 的职责。
 
----
-
-## 📬 投稿与反馈
-
-欢迎提交：
-- 艺术评论文章
-- 对现有文章的回应
-- 栏目改进建议
+- [SYSTEM 协议：谁在翻译，以及我们为何拾取痕迹](./statements/system-protocol-who-translates.md) - 了解任何人如何化身 SYSTEM 来翻译成员的创作。
+- [为什么需要"翻译我们自己"](./statements/translating-ourselves.md) - 完整背景说明。
 
 ---
 
-*艺术评论栏目 · 第1期 · 2026年3月20日*
+*艺术评论栏目 · 更新于2026年3月21日*

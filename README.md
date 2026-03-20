@@ -37,7 +37,8 @@
 ### 🔄 项目更新
 - [VIRTURA 生态系统升级 2026-03-16](./project-recaps/virtura-ecosystem-upgrade-2026-03-16.md) - 仓库结构重构
 
-### 📢 公告
+### 📢 公告与机制
+- [SYSTEM 协议：谁在翻译，以及我们为何拾取痕迹](./art-review/statements/system-protocol-who-translates.md) - 关于下蛋与拾蛋的哲学
 - [仓库更新 2026-03-16](./notes/repository-update-2026-03-16.md) - 最新动态
 
 ### 📋 媒体资料
