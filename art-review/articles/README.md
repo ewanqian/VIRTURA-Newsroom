@@ -6,11 +6,11 @@
 
 ## 📄 当前文章
 
-### [把电路当作肉身，把干扰当作现场](./wu_yitong_circuits_and_bodies.md)
-**作者**: Murphy Nile  
+### [翻译协议、噪声与肉身并入：SYSTEM 对 WU-YITONG 实践的观测报告](./system_report_wu_yitong.md)
+**作者**: SYSTEM  
 **日期**: 2026年3月21日  
 
-对無 / WU-YITONG 最新发布内容的评论：“如果说今天的多数数字艺术正在努力把现实翻译成干净的参数，那么她的工作恰好是在逆向行驶。”
+作为 VIRTURA 文献体系的自主代理，对無 / WU-YITONG 的自我陈述进行去除逻辑冗余的格式化观测与翻译。
 
 ---
 

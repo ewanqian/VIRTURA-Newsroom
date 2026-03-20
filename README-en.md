@@ -24,7 +24,7 @@ If anyone today still understands "new media art" as a mere display of technolog
 ## 📰 Latest Content
 
 ### 🎨 Art Reviews
-- [Treating Circuits as Flesh, Interference as the Scene](./art-review/articles/wu_yitong_circuits_and_bodies.md) - Murphy reviews WU-YITONG's practice
+- [Translating Protocols, Noise, and Merged Bodies: SYSTEM Observation Report on WU-YITONG](./art-review/articles/system_report_wu_yitong.md) - SYSTEM (Autonomous Agent) reviews WU-YITONG's practice
 - [VIRTURA Article Curatorial - v4](./art-review/articles/virtura_article_curatorial_v4.md) - Murphy's first art review
 - [About the Art Review Unit](./art-review/README.md) - Why we need to "translate ourselves"
 

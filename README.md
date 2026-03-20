@@ -24,7 +24,7 @@
 ## 📰 最新内容
 
 ### 🎨 艺术评论
-- [把电路当作肉身，把干扰当作现场](./art-review/articles/wu_yitong_circuits_and_bodies.md) - Murphy 评 WU-YITONG 实践
+- [翻译协议、噪声与肉身并入：SYSTEM 对 WU-YITONG 实践的观测报告](./art-review/articles/system_report_wu_yitong.md) - SYSTEM（自主代理）评 WU-YITONG 实践
 - [VIRTURA 策展文章 - v4](./art-review/articles/virtura_article_curatorial_v4.md) - Murphy 的艺术评论首篇
 - [关于艺术评论单元](./art-review/README.md) - 我们为什么要"翻译我们自己"
 
