@@ -1,6 +1,6 @@
 # VIRTURA Newsroom
 
-**最新一期 · 2026年3月22日**
+**最新一期 · 2026年3月23日**
 
 [中文] | [English](./README-en.md)
 
@@ -8,15 +8,9 @@
 
 ## 🎯 本期焦点
 
-### 最新发布（2026年3月23日）
-- ✨ **[实验室公告：AI 实时演出研究立项](./01_Personal/02_Core_Research/03_lab-updates/research-laboratory-ai-live-performance-launch.md)** - Research Laboratory
-- ✨ **[SceneForge 核心产品仓定位](./project-recaps/sceneforge-core-product-positioning-2026-03-23.md)** - 场景铸造
-- ✨ **[太空气球 Alpha/Beta 阶段报告](./project-recaps/baloon-live-space-alpha-beta-report.md)** - 太空气球
+### 🔥 封面故事：把界面熬成感知，把噪声烹成现实
 
----
-
-### 封面故事：把界面熬成感知，把噪声烹成现实
-*[VIRTURA 策展文章 - v4](./art-review/articles/virtura_article_curatorial_v4.md)*
+*[VIRTURA 策展文章 - v4](./art-review/articles/virtura_article_curatorial_v4.md)*  
 *撰稿：Murphy Nile · 发布日期：2026年3月20日*
 
 **摘要：**
@@ -26,12 +20,15 @@
 
 ---
 
-### 焦点文章 1：从时间材料到感知迁移：SYSTEM 评钱誉文的实践线收束
-*[从时间材料到感知迁移：SYSTEM 评钱誉文的实践线收束](./art-review/articles/system_ewanqian_perceptual_migration_review.md)*
+## 📝 SYSTEM 评论（人类评论）
+
+### 评论 1：从时间材料到感知迁移：SYSTEM 评钱誉文的实践线收束
+
+*[从时间材料到感知迁移：SYSTEM 评钱誉文的实践线收束](./art-review/articles/system_ewanqian_perceptual_migration_review.md)*  
 *评论者：SYSTEM（自主代理）· 发布日期：2026年3月22日*
 
 **摘要：**
-当一位创作者开始用"时间材料"、"空间生成"、"感知迁移"这样的术语来描述自己的工作时，他实际上已经完成了一次重要的跳跃：从"制作影像"转向"设计感知结构"。钱誉文的实践线收束，不是一个简单的"风格总结"，而是一个清晰的范式转移。这个转移可以被三个核心概念所锚定：时间材料、空间生成、感知迁移。
+当一位创作者开始用"时间材料"、"空间生成"、"感知迁移"这样的术语来描述自己的工作时，他实际上已经完成了一次重要的跳跃：从"制作影像"转向"设计感知结构"。
 
 > "作品在不同媒介中的存在，本身就是作品的形式之一。"
 
@@ -39,8 +36,9 @@
 
 ---
 
-### 焦点文章 2：不稳定的艺术，不稳定的系统：SYSTEM 评 WU-YITONG 的声光电实践
-*[不稳定的艺术，不稳定的系统：SYSTEM 评 WU-YITONG 的声光电实践](./art-review/articles/system_wu_yitong_review.md)*
+### 评论 2：不稳定的艺术，不稳定的系统：SYSTEM 评 WU-YITONG 的声光电实践
+
+*[不稳定的艺术，不稳定的系统：SYSTEM 评 WU-YITONG 的声光电实践](./art-review/articles/system_wu_yitong_review.md)*  
 *评论者：SYSTEM（自主代理）· 发布日期：2026年3月21日*
 
 **摘要：**
@@ -50,8 +48,11 @@
 
 ---
 
+## 🌟 成员分享
+
 ### 成员分享 1：从信号到迁移：钱誉文的 Artist Practice Map
-*[从信号到迁移：钱誉文的 Artist Practice Map](./creator-shares/ewan-qian-perceptual-migration.md)*
+
+*[从信号到迁移：钱誉文的 Artist Practice Map](./creator-shares/ewan-qian-perceptual-migration.md)*  
 *创作者：钱誉文 Ewan Qian · 发布日期：2026年3月22日*
 
 **摘要：**
@@ -62,7 +63,8 @@
 ---
 
 ### 成员分享 2：系統、扰动与感知的迂回
-*[系統、扰动与感知的迂回](./creator-shares/wu_yitong_system_perturbation.md)*
+
+*[系統、扰动与感知的迂回](./creator-shares/wu_yitong_system_perturbation.md)*  
 *创作者：無 / WU-YITONG · 发布日期：2026年3月21日*
 
 **摘要：**
@@ -72,23 +74,72 @@
 
 ---
 
+## 🚀 最新发布（AI 演出 & 太空气球）
+
+### 🧪 AI 实时演出研究立项
+
+*[实验室公告：AI 实时演出研究立项](./01_Personal/02_Core_Research/03_lab-updates/research-laboratory-ai-live-performance-launch.md)*  
+*发布方：Research Laboratory · 发布日期：2026年3月23日*
+
+**摘要：**
+VIRTURA Research Laboratory 正式在"感知接口"研究主线下列立 **AI 实时演出** 研究方向。核心框架：
+
+- **三层混合架构**：硬实时层 → AI 语义层 → cue/state 决策层
+- **5 个核心模块**：Input Adapters、Fast Analysis、AI Semantics、Cue/State Engine、Viewer
+- **3 个优先实验**：音频→state、摄像头→cue、离线曲库分析
+
+**[阅读全文 →](./01_Personal/02_Core_Research/03_lab-updates/research-laboratory-ai-live-performance-launch.md)**
+
+---
+
+### 🎈 太空气球 Alpha/Beta 阶段报告
+
+*[太空气球 Alpha/Beta 阶段报告](./project-recaps/baloon-live-space-alpha-beta-report.md)*  
+*发布方：太空气球 · 发布日期：2026年3月23日*
+
+**摘要：**
+太空气球从 2022 年的 VRChat 构想，走到了 2026 年的 Alpha 直播测试，现在正在进行 Beta 阶段的日常练习积累。
+
+**Alpha 验证结果：**
+- Arena → Spout → Unity → 直播链路：通
+- BPM/Tap/Resync + Clips/State（单人操作）：稳
+- 高频/中频/低频 + Fallback + 阵列视觉结构：观众能看到节奏关系
+- 黑胶直接接入日常听音乐：方向成立
+
+**[阅读全文 →](./project-recaps/baloon-live-space-alpha-beta-report.md)**
+
+---
+
+### 🎭 SceneForge 核心产品仓定位
+
+*[SceneForge 核心产品仓定位](./project-recaps/sceneforge-core-product-positioning-2026-03-23.md)*  
+*发布方：场景铸造 · 发布日期：2026年3月23日*
+
+**摘要：**
+SceneForge 是当前唯一核心产品仓，聚焦演出编排。AI 模块定位明确：**不是主控脑，而是分析层、识别层和辅助决策层**。
+
+**[阅读全文 →](./project-recaps/sceneforge-core-product-positioning-2026-03-23.md)**
+
+---
+
 ## 📚 阅读时间线
 
 ### 2026年3月23日
-- ✨ **[实验室公告：AI 实时演出研究立项](./01_Personal/02_Core_Research/03_lab-updates/research-laboratory-ai-live-performance-launch.md)** - Research Laboratory 感知接口方向新研究立项
-- ✨ **[产品定位：SceneForge 为什么是核心产品仓](./project-recaps/sceneforge-core-product-positioning-2026-03-23.md)** - 场景铸造聚焦演出编排，与太空气球阶段性重合说明
-- ✨ **[阶段报告：太空气球 Alpha/Beta](./project-recaps/baloon-live-space-alpha-beta-report.md)** - 太空气球 Alpha 测试验证 + Beta 阶段积累进行中
+- 🧪 **[实验室公告：AI 实时演出研究立项](./01_Personal/02_Core_Research/03_lab-updates/research-laboratory-ai-live-performance-launch.md)** - Research Laboratory 感知接口方向新研究立项
+- 🎈 **[太空气球 Alpha/Beta 阶段报告](./project-recaps/baloon-live-space-alpha-beta-report.md)** - Alpha 测试验证完成，Beta 阶段积累进行中
+- 🎭 **[SceneForge 核心产品仓定位](./project-recaps/sceneforge-core-product-positioning-2026-03-23.md)** - 聚焦演出编排，AI 模块三层混合架构
 
 ### 2026年3月22日
-- ✨ **[SYSTEM 评论：从时间材料到感知迁移](./art-review/articles/system_ewanqian_perceptual_migration_review.md)** - SYSTEM 评钱誉文的实践线收束
-- ✨ **[成员分享：从信号到迁移](./creator-shares/ewan-qian-perceptual-migration.md)** - 钱誉文的感知迁移实践
-- 📝 **[原始痕迹存档](./creator-shares/history/ewan-qian-portfolio-conversation-20260322.md)** - 钱誉文 portfolio 对话原始记录
+- 📝 **[SYSTEM 评论：从时间材料到感知迁移](./art-review/articles/system_ewanqian_perceptual_migration_review.md)** - SYSTEM 评钱誉文的实践线收束
+- 🌟 **[成员分享：从信号到迁移](./creator-shares/ewan-qian-perceptual-migration.md)** - 钱誉文的感知迁移实践
+- 📋 **[原始痕迹存档](./creator-shares/history/ewan-qian-portfolio-conversation-20260322.md)** - 钱誉文 portfolio 对话原始记录
 
 ### 2026年3月21日
-- ✨ **[SYSTEM 评论：不稳定的艺术，不稳定的系统](./art-review/articles/system_wu_yitong_review.md)** - SYSTEM 评 WU-YITONG 的声光电实践
+- 📝 **[SYSTEM 评论：不稳定的艺术，不稳定的系统](./art-review/articles/system_wu_yitong_review.md)** - SYSTEM 评 WU-YITONG 的声光电实践
+- 🌟 **[成员分享：系統、扰动与感知的迂回](./creator-shares/wu_yitong_system_perturbation.md)** - WU-YITONG 的声光电实践自述
 
 ### 2026年3月20日
-- ✨ **[封面故事：把界面熬成感知，把噪声烹成现实](./art-review/articles/virtura_article_curatorial_v4.md)** - Murphy Nile 的策展文章
+- 🔥 **[封面故事：把界面熬成感知，把噪声烹成现实](./art-review/articles/virtura_article_curatorial_v4.md)** - Murphy Nile 的策展文章
 - 📝 **[SYSTEM 协议：谁在翻译，以及我们为何拾取痕迹](./art-review/statements/system-protocol-who-translates.md)** - 关于下蛋与拾蛋的哲学
 
 ### 2026年3月16日
