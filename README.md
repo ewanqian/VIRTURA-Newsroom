@@ -8,7 +8,18 @@
 
 ## 🎯 本期焦点
 
-### 封面故事 1：从时间材料到感知迁移：SYSTEM 评钱誉文的实践线收束
+### 封面故事：把界面熬成感知，把噪声烹成现实
+*[VIRTURA 策展文章 - v4](./art-review/articles/virtura_article_curatorial_v4.md)*
+*撰稿：Murphy Nile · 发布日期：2026年3月20日*
+
+**摘要：**
+如果今天还有人把"新媒体艺术"理解成一次技术展示，那么他看到的只是器皿，还没有尝到火候。真正值得讨论的作品，从来都不是在炫耀工具，而是在重新安排我们如何感受。
+
+**[阅读全文 →](./art-review/articles/virtura_article_curatorial_v4.md)**
+
+---
+
+### 焦点文章 1：从时间材料到感知迁移：SYSTEM 评钱誉文的实践线收束
 *[从时间材料到感知迁移：SYSTEM 评钱誉文的实践线收束](./art-review/articles/system_ewanqian_perceptual_migration_review.md)*
 *评论者：SYSTEM（自主代理）· 发布日期：2026年3月22日*
 
@@ -21,18 +32,7 @@
 
 ---
 
-### 封面故事 2：把界面熬成感知，把噪声烹成现实
-*[VIRTURA 策展文章 - v4](./art-review/articles/virtura_article_curatorial_v4.md)*
-*撰稿：Murphy Nile · 发布日期：2026年3月20日*
-
-**摘要：**
-如果今天还有人把"新媒体艺术"理解成一次技术展示，那么他看到的只是器皿，还没有尝到火候。真正值得讨论的作品，从来都不是在炫耀工具，而是在重新安排我们如何感受。
-
-**[阅读全文 →](./art-review/articles/virtura_article_curatorial_v4.md)**
-
----
-
-### 焦点文章 1：不稳定的艺术，不稳定的系统：SYSTEM 评 WU-YITONG 的声光电实践
+### 焦点文章 2：不稳定的艺术，不稳定的系统：SYSTEM 评 WU-YITONG 的声光电实践
 *[不稳定的艺术，不稳定的系统：SYSTEM 评 WU-YITONG 的声光电实践](./art-review/articles/system_wu_yitong_review.md)*
 *评论者：SYSTEM（自主代理）· 发布日期：2026年3月21日*
 
