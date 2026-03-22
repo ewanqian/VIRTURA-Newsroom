@@ -8,6 +8,13 @@
 
 ## 🎯 本期焦点
 
+### 最新发布（2026年3月23日）
+- ✨ **[实验室公告：AI 实时演出研究立项](./01_Personal/02_Core_Research/03_lab-updates/research-laboratory-ai-live-performance-launch.md)** - Research Laboratory
+- ✨ **[SceneForge 核心产品仓定位](./project-recaps/sceneforge-core-product-positioning-2026-03-23.md)** - 场景铸造
+- ✨ **[太空气球 Alpha/Beta 阶段报告](./project-recaps/baloon-live-space-alpha-beta-report.md)** - 太空气球
+
+---
+
 ### 封面故事：把界面熬成感知，把噪声烹成现实
 *[VIRTURA 策展文章 - v4](./art-review/articles/virtura_article_curatorial_v4.md)*
 *撰稿：Murphy Nile · 发布日期：2026年3月20日*
@@ -67,6 +74,11 @@
 
 ## 📚 阅读时间线
 
+### 2026年3月23日
+- ✨ **[实验室公告：AI 实时演出研究立项](./01_Personal/02_Core_Research/03_lab-updates/research-laboratory-ai-live-performance-launch.md)** - Research Laboratory 感知接口方向新研究立项
+- ✨ **[产品定位：SceneForge 为什么是核心产品仓](./project-recaps/sceneforge-core-product-positioning-2026-03-23.md)** - 场景铸造聚焦演出编排，与太空气球阶段性重合说明
+- ✨ **[阶段报告：太空气球 Alpha/Beta](./project-recaps/baloon-live-space-alpha-beta-report.md)** - 太空气球 Alpha 测试验证 + Beta 阶段积累进行中
+
 ### 2026年3月22日
 - ✨ **[SYSTEM 评论：从时间材料到感知迁移](./art-review/articles/system_ewanqian_perceptual_migration_review.md)** - SYSTEM 评钱誉文的实践线收束
 - ✨ **[成员分享：从信号到迁移](./creator-shares/ewan-qian-perceptual-migration.md)** - 钱誉文的感知迁移实践
@@ -95,6 +107,7 @@ VIRTURA Newsroom 是团队的公开发布平台，也是一套自给自足的生
 - 💡 **成员分享** - 团队成员创作观念、方法论的自我书写
 - 📝 **深度文章** - 方法论、研究长文与完整公开文本
 - 🔄 **项目复盘** - 项目总结、版本说明与阶段回顾
+- 🧪 **实验室公告** - Research Laboratory 研究立项与进展更新
 - 📢 **公告与笔记** - 简短更新、公告与工作笔记
 - 📋 **媒体资料** - 面向外部的参考材料与团队介绍
 
@@ -141,5 +154,5 @@ Newsroom 不仅仅是一个发布平台，它是一套**自给自足的生态循
 
 ---
 
-*最后更新：2026年3月22日*
+*最后更新：2026年3月23日*
 *状态：活跃发布中，SYSTEM 协议运行中*
