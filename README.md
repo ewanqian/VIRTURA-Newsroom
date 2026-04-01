@@ -1,12 +1,25 @@
 # VIRTURA Newsroom
 
-**最新一期 · 2026年3月23日**
+**最新一期 · 2026年4月2日**
 
 [中文] | [English](./README-en.md)
 
 ---
 
 ## 🎯 本期焦点
+
+### 💡 系统升级：技能强，不是因为它像 AI 术语，而是因为它开始替我们稳定真正的工作
+
+*[essays](./essays/skill-based-workflow-virtura-2026.md)*  
+*发布方：VIRTURA Collective · 发布日期：2026年4月2日*
+
+**摘要：**
+
+这一轮更新之后，VIRTURA 最大的变化不是又多了几个仓库，而是我们开始把原本只存在于人脑、聊天记录和临时协作里的那套工作方式，慢慢压成一组可以复用的 skills。skill 真正强的地方，不是“更智能”，而是它开始替我们处理那些高频、重复、但又必须做对的动作。它让工作不再每次从零开始，不替代判断但能守住流程，终于能把仓库之间的关系变清楚，能让 stations 真的变成工作站，能留下痕迹而不是只留下结果。
+
+**[阅读全文 →](./essays/skill-based-workflow-virtura-2026.md)**
+
+---
 
 ### 🔥 封面故事：把界面熬成感知，把噪声烹成现实
 
@@ -158,6 +171,9 @@ AI 模块的定位很明确：**不是主控脑，而是分析层、识别层和
 
 ## 📚 阅读时间线
 
+### 2026年4月2日
+- 💡 **[技能强，不是因为它像 AI 术语](./essays/skill-based-workflow-virtura-2026.md)** - VIRTURA skill-based workflow 系统升级文章
+
 ### 2026年3月23日
 - 🔬 **[AI 实时演出研究立项](./creator-shares/research-laboratory-ai-live-performance-launch.md)** - Research Laboratory 感知接口方向新研究立项
 - 🚀 **[太空气球 Alpha/Beta 阶段报告](./project-recaps/baloon-live-space-alpha-beta-report.md)** - Alpha 测试验证完成，Beta 阶段积累进行中
@@ -238,5 +254,5 @@ Newsroom 不仅仅是一个发布平台，它是一套**自给自足的生态循
 
 ---
 
-*最后更新：2026年3月23日*
+*最后更新：2026年4月2日*
 *状态：活跃发布中，SYSTEM 协议运行中*
